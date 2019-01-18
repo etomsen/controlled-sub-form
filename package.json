@@ -1,0 +1,39 @@
+{
+  "name": "@daubihe/controlled-sub-form",
+  "version": "1.0.0",
+  "description": "An abstract component to split the complex Angular Reactive Forms",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etomsen/controlled-sub-form.git"
+  },
+  "keywords": [
+    "angular",
+    "reactive",
+    "forms"
+  ],
+  "author": "Evgeny Tomsen <eugene.tomsen@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/etomsen/controlled-sub-form/issues"
+  },
+  "homepage": "https://github.com/etomsen/controlled-sub-form#readme",
+  "dependencies": {
+    "@angular/common": "^7.2.1",
+    "@angular/core": "^7.2.1",
+    "@angular/forms": "^7.2.1",
+    "@angular/platform-browser": "^7.2.1",
+    "lodash": "^4.17.11",
+    "rxjs": "^6.3.3"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.120",
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "typescript": "^3.2.4"
+  }
+}
