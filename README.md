@@ -1,6 +1,9 @@
 # An abstract component to split the complex Angular Reactive Forms
 
+[![Build Status](https://travis-ci.org/etomsen/controlled-sub-form.svg?branch=master)](https://travis-ci.org/etomsen/controlled-sub-form) [![Coverage Status](https://coveralls.io/repos/github/etomsen/controlled-sub-form/badge.svg?branch=master)](https://coveralls.io/github/etomsen/controlled-sub-form?branch=master)
+
 Complex Angular reactive forms state management based on *Profunctor Optics*
+
 
 ## Install
 
