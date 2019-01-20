@@ -2,7 +2,8 @@
   "name": "@daubihe/controlled-sub-form",
   "version": "1.0.2",
   "description": "An abstract component to split the complex Angular Reactive Forms",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "test": "mocha --reporter spec",
