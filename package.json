@@ -1,6 +1,6 @@
 {
   "name": "@daubihe/controlled-sub-form",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An abstract component to split the complex Angular Reactive Forms",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
